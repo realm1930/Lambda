@@ -1,4 +1,4 @@
-package be.vdab.sterrenbeelden;
+package be.vdab.taken.sterrenbeelden;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
